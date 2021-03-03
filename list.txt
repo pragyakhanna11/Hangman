@@ -1,0 +1,9 @@
+apple
+banana
+guava
+red
+green
+yellow
+purple
+table
+chair
